@@ -1,0 +1,1 @@
+# Ripplica Interview Task - Web Query Processing System
